@@ -2,4 +2,4 @@
 angular - the complete course (2021)
 
 
-Website [https://docs.github.com/articles/troubleshooting-custom-domains/#github-repository-setup-errors]
+Hosted Website [https://effulgent-bonbon-eb7838.netlify.app/auth]
